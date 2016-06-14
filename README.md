@@ -6,3 +6,5 @@ Takes a date range and puts all e-mail content, grouped by date, in 1 HTML file.
 Put your Gmail account details in [MainForm.cs](MainForm.cs) (and enable POP3 on your Gmail account).
 
 ![Screenshot](Screenshot.png "Screenshot")
+
+Content surrounded with the tags `<***>` and `<\***>` is filtered.
