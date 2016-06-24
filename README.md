@@ -8,3 +8,5 @@ Put your Gmail account details in [MainForm.cs](MainForm.cs) (and enable POP3 on
 ![Screenshot](Screenshot.png "Screenshot")
 
 Content surrounded with the tags `<***>` and `<\***>` is filtered.
+
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
